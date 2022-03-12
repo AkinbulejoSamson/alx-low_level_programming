@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints base 16 characters 
+ * main - prints base 16 characters
  *
  * Return: Always 0
  */
