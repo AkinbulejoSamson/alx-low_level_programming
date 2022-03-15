@@ -2,6 +2,7 @@
 
 /**
  * print_last_digit - prints the val of last digit
+ * @n: digit to be worked on
  *
  * Return: value of last digit
  */
