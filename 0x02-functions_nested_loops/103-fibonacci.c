@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints postive fibs 
+ * main - sth
  *
- * Return: always 0
+ * Return: 0
  */
 
 int main(void)
