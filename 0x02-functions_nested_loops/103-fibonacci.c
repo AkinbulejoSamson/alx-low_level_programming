@@ -23,4 +23,6 @@ int main(void)
 		fib1 = fib2;
 		fib2 = fibsum;
 	}
+
+	return (0);
 }
