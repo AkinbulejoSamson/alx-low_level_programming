@@ -21,4 +21,4 @@ char *strcat(char *dest, const char *src)
 	{
 		dest[length] = src[j];
 	}
-}
+}	
